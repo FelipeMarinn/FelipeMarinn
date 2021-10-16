@@ -4,18 +4,15 @@
 
 ```
 const FelipeMarinn = {
-  pronouns: "she" | "her",
   code: [Javascript, HTML, CSS ],
-  tools: [React, Redux, Styled-Components, Jest ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  tools: [React, Redux, Styled-Components, Bootstrap, Firebase, Jest, Enzyme ],
+  passions: ["web development", "perfomance web" ],
 ```
+
+You can find me: 
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.maringuisao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-daniel/)
+[![web site](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://daniel-marin.netlify.app/)
 
 <!--
 **FelipeMarinn/FelipeMarinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
