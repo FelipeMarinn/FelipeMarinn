@@ -1,5 +1,5 @@
 ## Hi I'm Daniel 👋
-### Frontend Developer 👨‍💻
+### Frontend Developer  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 ![andre-benz-axQXVkrUASg-unsplash](https://user-images.githubusercontent.com/74942682/137603640-edbcc71c-1c3a-4d01-9b5b-77d440c88686.jpg)
 
@@ -17,14 +17,13 @@ const FelipeMarinn = {
 [![web site](https://img.shields.io/badge/-website-e79248?style=for-the-badge)](https://daniel-marin.netlify.app/)
 
 - 🌱 I’m currently learning 
-<!--START_SECTION:waka-->
-![](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ```text  Nodejs    2 hrs 50 mins      █████████░░░░░░░░░░░░░░░░░  30% ```
+
 ```text
 Nodejs    2 hrs 50 mins      █████████░░░░░░░░░░░░░░░░░  30%
 MongoDB  1 hr 10 mins        ████████████░░░░░░░░░░░░░░  40% 
 ```
 
-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m interested in learning 
+🚀 I’m interested in learning 
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)     
