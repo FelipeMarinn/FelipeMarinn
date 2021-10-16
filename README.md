@@ -18,7 +18,7 @@ const FelipeMarinn = {
 
 - 🌱 I’m currently learning 
 <!--START_SECTION:waka-->
-
+![](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) ```text  Nodejs    2 hrs 50 mins      █████████░░░░░░░░░░░░░░░░░  30% ```
 ```text
 Nodejs    2 hrs 50 mins      █████████░░░░░░░░░░░░░░░░░  30%
 MongoDB  1 hr 10 mins        ████████████░░░░░░░░░░░░░░  40% 
@@ -26,7 +26,7 @@ MongoDB  1 hr 10 mins        ████████████░░░░░
 
 - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m interested in learning 
 
-![](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)     
 
 
