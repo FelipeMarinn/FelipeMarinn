@@ -12,7 +12,7 @@ const FelipeMarinn = {
 You can find me: 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.maringuisao@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-daniel/)
-[![web site](https://img.shields.io/badge/-web-site-000000?style=for-the-badge&logo=react&logoColor=white)](https://daniel-marin.netlify.app/)
+[![web site](https://img.shields.io/badge/-website-000000?style=for-the-badge&logo=react&logoColor=white)](https://daniel-marin.netlify.app/)
 
 <!--
 **FelipeMarinn/FelipeMarinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
