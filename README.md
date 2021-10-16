@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm Daniel marin 👋
+
+![andre-benz-axQXVkrUASg-unsplash](https://user-images.githubusercontent.com/74942682/137603640-edbcc71c-1c3a-4d01-9b5b-77d440c88686.jpg)
+
 ```
 const FelipeMarinn = {
   pronouns: "she" | "her",
