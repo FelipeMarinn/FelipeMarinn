@@ -15,24 +15,17 @@ const FelipeMarinn = {
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marin-daniel/)
 [![web site](https://img.shields.io/badge/-website-e79248?style=for-the-badge)](https://daniel-marin.netlify.app/)
 
-📊 **Weekly development breakdown**
+- 🌱 I’m currently learning 
 <!--START_SECTION:waka-->
+
 ```text
+Nodejs    2 hrs 50 mins      █████████░░░░░░░░░░░░░░░░░  30%
+MongoDB  1 hr 10 mins        ████████████░░░░░░░░░░░░░░  40% 
+```
 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-React        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m interested in learning 
+```text 
+Python  
+AWS       
+```
 
