@@ -1,4 +1,5 @@
 ### Hi I'm Daniel 👋
+## Frontend Developer 👨‍💻
 
 ![andre-benz-axQXVkrUASg-unsplash](https://user-images.githubusercontent.com/74942682/137603640-edbcc71c-1c3a-4d01-9b5b-77d440c88686.jpg)
 
@@ -23,9 +24,9 @@ Nodejs    2 hrs 50 mins      █████████░░░░░░░░
 MongoDB  1 hr 10 mins        ████████████░░░░░░░░░░░░░░  40% 
 ```
 
-- 🔭 I’m interested in learning 
-```text 
-Python  
-AWS       
+- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m interested in learning 
+```
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)     
 ```
 
