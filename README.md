@@ -5,9 +5,9 @@
 
 ```javascript
 const FelipeMarinn = {
-  code: [Javascript, HTML, CSS ],
-  tools: [React, Redux, Styled-Components, Bootstrap, Firebase, Jest, Enzyme ],
-  passions: ["web development", "perfomance web", "Desing" ],
+  code: [ Javascript, HTML, CSS ],
+  tools: [ React, Redux, Vue, Styled-Components, Bootstrap, Firebase, Jest, Enzyme ],
+  passions: [ "web development", "perfomance web" ],
 ```
 
 - :mailbox: How to reach me:
