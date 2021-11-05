@@ -5,7 +5,7 @@
 
 ```javascript
 const FelipeMarinn = {
-  code: [ Javascript, HTML, CSS ],
+  code: [ Javascript, HTML, CSS, SQL ],
   tools: [ React, Redux, Vue, Styled-Components, Bootstrap, Firebase, Jest ],
   passions: [ "web development", "perfomance web" ],
 }  
